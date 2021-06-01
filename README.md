@@ -22,6 +22,9 @@ LabelImg标注图片如图
  output 输出结果统计
  log  训练时输出日式  
  其它文件为YOLOv3源码配置文件  
+ 其它文件链接：https://pan.baidu.com/s/1Fc_ibsMLnnvoLuzbGxB5AQ 
+提取码：p4v7 
+
 
 # 测试结果
 对图片测试结果：  
